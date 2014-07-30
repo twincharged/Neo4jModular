@@ -1,0 +1,3 @@
+module UserNeoQueries
+
+end

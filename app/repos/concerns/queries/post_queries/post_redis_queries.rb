@@ -1,0 +1,4 @@
+module PostRedisQueries
+
+
+end
